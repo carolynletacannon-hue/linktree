@@ -1,0 +1,1 @@
+export const BrandIcon=({name}:{name:string})=><span className="brand-icon" aria-hidden="true">{name==='Apple Music'?'♪':name==='YouTube Music'||name==='YouTube'?'▶':name==='Amazon Music'?'a':name.slice(0,1)}</span>;
