@@ -11,6 +11,6 @@ export const socialLinks = [
 export const siteConfig = {
  email:'hello@carolyncannon.com', // REPLACE: business email
  soundCannonUrl:'mailto:hello@carolyncannon.com?subject=SoundCannon inquiry', // REPLACE: SoundCannon URL
- heroImage:'https://images.unsplash.com/photo-1604514628550-37477afdf4e3?auto=format&fit=crop&w=1600&q=85', // REPLACE: Carolyn's portrait
+ heroImage:'/assets/carolyn-cannon-hero.svg',
  aboutImage:'https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=80', // REPLACE: Carolyn's secondary portrait
 };
