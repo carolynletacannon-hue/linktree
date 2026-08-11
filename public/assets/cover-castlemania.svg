@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Castlemania</title>
+  <desc id="desc">A colorful pixel-art castle beneath an arch on a warm neutral album cover.</desc>
+  <rect width="800" height="800" fill="#e2ddd7"/>
+  <path d="M232 398V260a168 168 0 0 1 336 0v138Z" fill="#f4f6f5"/>
+
+  <!-- Pixel-art castle, rebuilt from the supplied cover reference. -->
+  <g shape-rendering="crispEdges">
+    <path fill="#06bfd1" d="M240 388h320v12H240zm28-17h35v17h-35zm245 3h29v14h-29z"/>
+    <path fill="#0a5472" d="M286 284h24v95h-24zm19-18h14v25h-14zm43-98h12v48h-12zm18-54h18v70h-18zm7-22h19v12h-19zm73 185h24v102h-24zm17-26h13v38h-13zm-127-47h17v175h-17zm85 16h16v159h-16z"/>
+    <path fill="#f4bd3f" d="M276 294h42v18h-42zm8-20h26v20h-26zm55-34h52v21h-52zm34-36h31v37h-31zm-23 62h75v17h-75zm-3 52h84v22h-84zm83-27h49v18h-49zm14-18h30v20h-30zm-145 42h29v55h-29zm45-21h25v76h-25zm71 3h24v72h-24z"/>
+    <path fill="#e66f35" d="M280 282h34v13h-34zm65-36h18v67h-18zm28-31h15v30h-15zm12 61h39v18h-39zm-30 48h18v48h-18zm53-18h20v59h-20zm37-23h31v12h-31z"/>
+    <path fill="#8a326d" d="M286 302h40v15h-40zm8 37h33v18h-33zm45-82h18v55h-18zm28-22h20v20h-20zm12 43h49v18h-49zm-25 52h18v40h-18zm47-18h25v18h-25zm9 39h32v19h-32zm35-53h35v16h-35z"/>
+    <path fill="#113d63" d="M258 368h73v12h-73zm22-56h15v57h-15zm42-90h14v158h-14zm15-38h15v44h-15zm73 48h15v56h-15zm19 136h65v12h-65zm51-60h16v69h-16z"/>
+    <path fill="#eaf37e" d="M249 376h103v10H249zm70-73h22v13h-22zm29-50h51v11h-51zm11 54h79v12h-79zm13 29h61v13h-61zm54 39h90v11h-90z"/>
+    <path fill="#74a910" d="M244 360h16v27h-16zm12 13h61v15h-61zm34-18h22v20h-22zm217 17h28v16h-28z"/>
+    <path fill="#b7641d" d="M504 361h17v18h-17zm16 14h22v13h-22z"/>
+  </g>
+
+  <path d="M365 443h70" stroke="#171514" stroke-width="1.5"/>
+  <text x="400" y="565" text-anchor="middle" fill="#11100f" font-family="Didot, 'Bodoni MT', 'Times New Roman', serif" font-size="61" letter-spacing="1">CASTLEMANIA</text>
+  <path d="M365 642h70" stroke="#171514" stroke-width="1.5"/>
+</svg>
