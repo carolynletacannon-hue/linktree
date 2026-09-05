@@ -1,2 +1,0 @@
-import { ArrowUpRight } from 'lucide-react';import {siteConfig} from '../data/links';
-export function SoundCannon(){return <section id="soundcannon" className="sound section reveal"><div><p className="eyebrow">SoundCannon</p><h2>Need help creating<br/>your own music?</h2></div><div><p>Through SoundCannon, I help artists take songs from the first idea through production, branding, distribution, release, and artist development.</p><a className="button outline" href={siteConfig.soundCannonUrl}>Work with me <ArrowUpRight size={17}/></a></div></section>}
